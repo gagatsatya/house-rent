@@ -1,0 +1,161 @@
+body {
+  font-family: "Poppins", sans-serif;
+}
+
+h1 {
+  font-size: 42px;
+  font-weight: 600;
+}
+
+h2 {
+  font-weight: 500;
+  font-size: 32px;
+}
+
+p {
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 36px;
+  color: #999999;
+}
+
+.clr-light {
+  color: #999999;
+}
+
+.clr-blue {
+  color: #8080ff;
+}
+
+.clr-black {
+  color: black;
+}
+
+nav .nav-item {
+  font-size: 18px;
+  font-weight: 500;
+  margin-right: 20px;
+}
+
+.navbar-brand h1 {
+  font-size: 30px;
+  font-weight: 600;
+  display: inline;
+  color: #8080ff;
+  margin-left: 10px;
+  margin-top: 6px;
+}
+
+.hero .location-box {
+  background-color: #f7f7f9;
+  padding: 10px 170px 10px 15px;
+}
+
+.hero .location-box p {
+  margin-bottom: 0;
+}
+
+.hero .btn {
+  background-color: #ff9376;
+  padding: 11px 30px;
+  border: none;
+}
+
+.hero .btn:hover {
+  opacity: 0.8;
+}
+
+.hero .banner {
+  z-index: 90;
+}
+
+.hero .frame {
+  z-index: 10;
+  bottom: -15px;
+}
+
+.partner {
+  margin-top: 100px;
+}
+
+.selection .image {
+  border-radius: 42px;
+  cursor: pointer;
+}
+
+.selection .image:hover {
+  opacity: 0.7;
+}
+
+.selection .badges {
+  z-index: 10;
+  left: 140px;
+  border-radius: 0 42px 0 0;
+}
+.selection .star {
+  z-index: 50;
+  left: 168px;
+  top: 10px;
+}
+
+.selection .rating {
+  z-index: 50;
+  left: 198px;
+  top: 6px;
+}
+
+.selection .rating p {
+  color: white;
+}
+
+.selection h3 {
+  font-size: 20px;
+  margin-top: 20px;
+  font-weight: 500;
+}
+
+.testimoni {
+  margin-top: 100px;
+}
+
+.testimoni .box {
+  left: 53px;
+  top: 130px;
+}
+
+.testimoni .text {
+  left: 72px;
+  top: 155px;
+}
+
+.testimoni .text h4 {
+  font-size: 13px;
+  font-weight: 500;
+  margin-bottom: 3px;
+}
+.testimoni .text p {
+  margin-top: 0;
+  font-size: 11px;
+  font-weight: 300;
+  line-height: 13px;
+}
+
+footer {
+  margin-top: 100px;
+  box-shadow: 0px -5px 15px rgba(0, 0, 0, 0.25);
+}
+
+footer .left {
+  margin-top: 50px;
+}
+
+footer p {
+  display: inline;
+  margin-left: 10px;
+}
+
+footer .sosmed {
+  margin-top: 50px;
+  margin-left: 40px;
+  margin-bottom: 15px;
+}
