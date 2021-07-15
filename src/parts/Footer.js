@@ -48,7 +48,7 @@ export default function Footer() {
         </div>
         <div className="row justify-content-center">
           <div className="col-auto">
-            <p> © All Right Reserved - WeWork 2020</p>
+            <p> © All Right Reserved - Lentera 2021</p>
           </div>
         </div>
       </div>
